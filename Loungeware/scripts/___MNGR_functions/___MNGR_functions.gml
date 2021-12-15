@@ -855,7 +855,7 @@ function ___MG_MNGR_declare_functions(){
 				}
 			}
 		}
-		log(array_length(tsd_flame_parts));
+		// log(array_length(tsd_flame_parts));
 	}
 
 }
